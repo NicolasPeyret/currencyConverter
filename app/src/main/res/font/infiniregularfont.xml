@@ -1,0 +1,4 @@
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/infini_romain"/>
+    <font app:fontStyle="italic" app:fontWeight="400" app:font="@font/infini_italique" />
+</font-family>

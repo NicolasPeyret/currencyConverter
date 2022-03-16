@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu1langue"
+        android:title="@string/langue" />
+    <item
+        android:id="@+id/menu1convert"
+        android:title="@string/Convertir" />
+    <item
+        android:id="@+id/menu1paramore"
+        android:title="@string/param_tres_more">
+        <menu>
+
+            <item
+                android:id="@+id/menu1param"
+                android:title="@string/param_tres" />
+        </menu>
+    </item>
+</menu>
+

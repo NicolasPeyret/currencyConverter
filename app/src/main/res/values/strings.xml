@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="in">Devise d\'arrivée</string>
+    <string name="out">Devise de départ</string>
+    <string name="money">Montant</string>
+    <string name="result">Voici le résultat de votre conversion de monnaie :</string>
+
+    <string name="same_devise">Veuillez entrer deux devises différentes </string>
+    <string name="value_empty">Veuillez entrer une valeur </string>
+    <string name="Quitter">Quitter</string>
+    <string name="Inverser">Inverser</string>
+    <string name="Retour">Retour</string>
+    <string name="Convertir">Convertir</string>
+    <string name="textview">TextView</string>
+    <string name="retour">Retour</string>
+    <string name="quitter">Quitter</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="langue">Langue</string>
+    <string name="param_tres_more">Paramètres ?</string>
+</resources>
